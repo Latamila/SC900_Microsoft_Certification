@@ -9,6 +9,9 @@ Descrever os conceitos básicos da segurança cibernética
 
 https://learn.microsoft.com/pt-br/training/paths/describe-basic-concepts-of-cybersecurity/
 
+Descrever conceitos de criptografia:
+https://learn.microsoft.com/pt-br/training/modules/describe-concepts-of-cryptography/
+
 
 1- Microsoft Security, Compliance, and Identity Fundamentals: descrever os conceitos de segurança, conformidade e identidade
 
