@@ -1,3 +1,4 @@
+![image](https://github.com/Latamila/SC900_Microsoft_Certification/assets/87709951/9a36fc71-f95e-48a4-a80e-03a19aec99f1)
 # SC900_Microsoft_Certification
 
 Inicie seus estudos com os roteiros de aprendizagem da Microsoft Learn:
